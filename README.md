@@ -1,6 +1,13 @@
 # challenge01
 
-Ce challenge consiste à retourner la lettre correspondante à sa représentation
+
+## __Important :__
+Ce challenge se base sur un test effectué lors des tests de recrutement pour 
+une entreprise sur codingame, ce challenge est donc un bon exercice et est
+tout à fait concret, cela peut être un bon entrainement pour de futurs tests.
+
+## __Sujet :__
+Le challenge consiste à retourner la lettre correspondante à sa représentation
 en ASCII art.
 
 Exemple : 
